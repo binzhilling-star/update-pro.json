@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0 PRO",
-  "changelog": "• Optimized for Android Phone\n• Switched to Vidfast.vc for faster streaming\n• Removed Video Player Settings menu\n• Bug fixes and performance improvements",
-  "apkUrl": "https://link-to-your-new-pro-apk-file.com/mubitv-pro-v1.1.0.apk"
+  "versionCode": 2,
+  "versionName": "2.0 PRO",
+  "changelog": "• Bug fixes and performance improvements both tv and phone",
+  "apkUrl": "https://github.com/binzhilling-star/update-pro.json/raw/refs/heads/main/mubitv.pro_%232_2.0.apk"
 }
